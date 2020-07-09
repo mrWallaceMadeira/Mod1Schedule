@@ -11,7 +11,7 @@ th 9/3 | [:paperclip: terminal](https://google.com) | quiz 2, how to use termina
 f 9/3 | [:paperclip: intellij](https://google.com) | quiz 3, how to use intellij, wrap up setup
 
 ###### Week 2
-:test_tube: &nbsp; Labs 1 and 2 due by **end of class Friday**
+:test_tube:&nbsp; Labs 1 and 2 due by **end of class Friday**
 date | homework | classwork
 ---- | ------ | ---------
 m 9/7 | [:paperclip: printing and strings](https://github.com/mrWallaceMadeira/lesson1) | quiz 4, lab 1
@@ -21,17 +21,17 @@ th 9/10 | [:paperclip: manipulating strings](https://google.com) | quiz 7, lab 2
 fr 9/11 | [:paperclip: booleans & logical ops](https://google.com) | quiz 8, finish labs
 
 ###### Week 3
-:test_tube:&nbsp;Lab 3 due by **end of class Thursday**
+:test_tube:&nbsp; Lab 3 due by **end of class Thursday**
 date | homework | classwork
 ---- | ------ | ---------
 m 9/14 | [:paperclip: conditionals](https://github.com/mrWallaceMadeira/lesson1) | quiz 9, lab 3
 tu 9/15 | [:paperclip: loops](https://google.com) | quiz 10, lab 3
 w 9/16 | [:paperclip: loops & conditionals](https://google.com) | quiz 11, lab 3
 th 9/17 | [:paperclip: review](https://google.com) | review
-fr 9/18 | [:paperclip: review](https://google.com) | :tada: **knowledge celebration**
+fr 9/18 | [:paperclip: review](https://google.com) | :tada:&nbsp; **knowledge celebration**
 
 ###### Week 4
-:test_tube:&nbsp;Labs 4 and 5 due by **end of class Friday**
+:test_tube:&nbsp; Labs 4 and 5 due by **end of class Friday**
 date | homework | classwork
 ---- | ------ | ---------
 m 9/21 | [:paperclip: more loops](https://github.com/mrWallaceMadeira/lesson1) | quiz 12, lab 4
@@ -41,13 +41,13 @@ th 9/24 | [:paperclip: final project/ spc. top.](https://google.com) | quiz 15, 
 fr 9/25 | [:paperclip: spc. top.](https://google.com) | quiz 16, finish labs
 
 ###### Week 5
-:test_tube:&nbsp;Final project due by **end of class Wednesday**
+:test_tube:&nbsp; Final project due by **end of class Wednesday**
 date | homework | classwork
 ---- | ------ | ---------
 m 9/28 | [:paperclip: printing and strings](https://github.com/mrWallaceMadeira/lesson1) | review & project
 tu 9/29 | [:paperclip: reading input](https://google.com) | review & project
 w 9/30 | [:paperclip: numbers & arithmetic](https://google.com) | review & project
-th 10/1 | [:paperclip: manipulating strings](https://google.com) | :tada:&nbsp;**cumulative knowledge celebration**
-fr 10/2 | [:paperclip: manipulating strings](https://google.com) | :trophy:&nbsp;**project presentations**
+th 10/1 | [:paperclip: manipulating strings](https://google.com) | :tada:&nbsp; **cumulative knowledge celebration**
+fr 10/2 | [:paperclip: manipulating strings](https://google.com) | :trophy:&nbsp; **project presentations**
 
 
