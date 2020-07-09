@@ -9,7 +9,7 @@ th 9/3 | [:paperclip: terminal](https://google.com) | quiz 2, how to use termina
 f 9/3 | [:paperclip: intellij](https://google.com) | quiz 3, how to use intellij, wrap up setup
 
 ###### Week 2
-:test_tube: Labs 1 and 2 due by **end of class Friday**
+:test_tube: &nbsp Labs 1 and 2 due by **end of class Friday**
 date | homework | classwork
 ---- | ------ | ---------
 m 9/7 | [:paperclip: printing and strings](https://github.com/mrWallaceMadeira/lesson1) | quiz 4, lab 1
