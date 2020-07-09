@@ -9,7 +9,7 @@ T 9/3 | [:paperclip: terminal](https://google.com) | quiz 2, how to use terminal
 F 9/3 | [:paperclip: intellij](https://google.com) | quiz 3, how to use intellij, wrap up setup
 
 ###### Week 2
-:test: Labs 1 and 2 due by **end of class Friday**
+:testtube: Labs 1 and 2 due by **end of class Friday**
 date | homework | classwork
 ---- | ------ | ---------
 M 9/7 | [:paperclip: to intellij](https://github.com/mrWallaceMadeira/lesson1) | quiz 1, git setup, intro
