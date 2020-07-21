@@ -7,7 +7,7 @@
 date | homework | classwork
 ---- | ------ | ---------
 w 9/2 | [:paperclip: github setup](https://github.com/mrWallaceMadeira/lesson1) | quiz 1, how to use git
-th 9/3 | [:paperclip: terminal](https://google.com) | quiz 2, how to use terminal deep dive
+th 9/3 | [:paperclip: terminal](https://google.com) | quiz 2, how to use terminal with git
 f 9/3 | [:paperclip: intellij](https://google.com) | quiz 3, how to use intellij, wrap up setup
 
 ###### Week 2
