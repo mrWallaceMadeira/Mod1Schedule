@@ -13,7 +13,6 @@ f 9/3 | [:paperclip: intellij](https://google.com) | quiz 3, how to use intellij
 ###### Week 2
 - :test_tube:&nbsp;Lab 1 template [here](https://classroom.github.com/a/COn0x_SZ)
 - :test_tube:&nbsp;Lab 2 template [here](https://classroom.github.com/a/COn0x_SZ)
-  - Due by **end of class Friday**
 -----
 date | homework | classwork
 ---- | ------ | ---------
@@ -21,7 +20,7 @@ m 9/7 | [:paperclip: printing and strings](https://github.com/mrWallaceMadeira/l
 tu 9/8 | [:paperclip: reading input](https://google.com) | quiz 5, lab 1
 w 9/9 | [:paperclip: numbers & arithmetic](https://google.com) | quiz 6, lab 1 / 2
 th 9/10 | [:paperclip: manipulating strings](https://google.com) | quiz 7, lab 2
-fr 9/11 | [:paperclip: booleans & logical ops](https://google.com) | quiz 8, finish labs
+fr 9/11 | [:paperclip: booleans & logical ops](https://google.com) | quiz 8, labs 1 & 2 due
 
 ###### Week 3
 :test_tube:&nbsp; Lab 3 due by **end of class Thursday**
