@@ -1,8 +1,8 @@
 ### Mod 1&nbsp; :date:
 -----
 
-:round_pushpin:&nbsp; What is listed as homework is to be done _before_ class on the specified day
-:round_pushpin&nbsp; ET = Entry Ticket. It's required to _enter_ class.
+:round_pushpin:&nbsp; What is listed as homework is to be done _before_ class on the specified day\
+:round_pushpin:&nbsp; ET = Entry Ticket. It's required to _enter_ class.
 
 ###### Week 1
 - No labs this week, just getting set up
