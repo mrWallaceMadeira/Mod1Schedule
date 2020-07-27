@@ -11,9 +11,12 @@
 -----
 date | homework | classwork
 ---- | ------ | ---------
-w 9/2 | [git setup](https://github.com/mrWallaceMadeira/lesson1)\ [ET1](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUNkdBQ0gxSUpQTUdJUUhCODA5M0wySlBTQiQlQCN0PWcu) | how to use git
-th 9/3 | [terminal](https://github.com/mrWallaceMadeira/lesson2)\ [YT1](https://google.com)\[ET2](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUNFpBRVMzRk9SVk4wR09FTExVTkZWV1ZRRCQlQCN0PWcu) | how to use terminal with git
-f 9/3 | [intellij](https://google.com)\ [ET3](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUOVZLOUE4NFdVSlQyVUdENzI1RzVIUENVMSQlQCN0PWcu) | how to use intellij, wrap up setup
+w 9/2 | [git setup](https://github.com/mrWallaceMadeira/lesson1) \
+[ET1](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUNkdBQ0gxSUpQTUdJUUhCODA5M0wySlBTQiQlQCN0PWcu) | how to use git
+th 9/3 | [terminal](https://github.com/mrWallaceMadeira/lesson2)\ [YT1](https://google.com)\
+[ET2](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUNFpBRVMzRk9SVk4wR09FTExVTkZWV1ZRRCQlQCN0PWcu) | how to use terminal with git
+f 9/3 | [intellij](https://google.com)\ 
+[ET3](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUOVZLOUE4NFdVSlQyVUdENzI1RzVIUENVMSQlQCN0PWcu) | how to use intellij, wrap up setup
 
 ###### Week 2
 - :test_tube:&nbsp;Lab 1 template [here](https://classroom.github.com/a/COn0x_SZ)
