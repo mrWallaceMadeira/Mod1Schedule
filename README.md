@@ -4,6 +4,7 @@
 :round_pushpin:&nbsp; What is listed as homework is to be done _before_ class on the specified day
 
 ###### Week 1
+- No labs this week, just getting set up
 date | homework | classwork
 ---- | ------ | ---------
 w 9/2 | [:paperclip: git setup](https://github.com/mrWallaceMadeira/lesson1) entry ticket 1 | how to use git
