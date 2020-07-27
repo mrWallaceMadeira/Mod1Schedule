@@ -2,15 +2,16 @@
 -----
 
 :round_pushpin:&nbsp; What is listed as homework is to be done _before_ class on the specified day
+:round_pushpin&nbsp; ET = Entry Ticket. It's required to _enter_ class.
 
 ###### Week 1
 - No labs this week, just getting set up
 -----
 date | homework | classwork
 ---- | ------ | ---------
-w 9/2 | [:paperclip: git setup](https://github.com/mrWallaceMadeira/lesson1) entry ticket 1 | how to use git
-th 9/3 | [:paperclip: terminal](https://github.com/mrWallaceMadeira/lesson2), entry ticket 2 | how to use terminal with git
-f 9/3 | [:paperclip: intellij](https://google.com), entry ticket 3 | how to use intellij, wrap up setup
+w 9/2 | [git setup](https://github.com/mrWallaceMadeira/lesson1) [ET1] | how to use git
+th 9/3 | [terminal](https://github.com/mrWallaceMadeira/lesson2), [ET2] | how to use terminal with git
+f 9/3 | [intellij](https://google.com), [ET3] | how to use intellij, wrap up setup
 
 ###### Week 2
 - :test_tube:&nbsp;Lab 1 template [here](https://classroom.github.com/a/COn0x_SZ)
