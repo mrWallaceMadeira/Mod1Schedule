@@ -9,7 +9,7 @@ date | homework | classwork
 ---- | ------ | ---------
 w 9/2 | [git setup notes](https://github.com/mrWallaceMadeira/lesson1) | how to use git
 th 9/3 | [terminal notes](https://github.com/mrWallaceMadeira/lesson2) | how to use terminal with git
-f 9/3 | [intellij notes](https://google.com) | how to use intellij, wrap up setup
+f 9/3 | [intellij notes](https://github.com/mrWallaceMadeira/lesson3) | how to use intellij, wrap up setup
 
 ###### Week 2
 - :test_tube:&nbsp;Lab 1 template [here](https://classroom.github.com/a/COn0x_SZ)
