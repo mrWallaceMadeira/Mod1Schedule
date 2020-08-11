@@ -12,8 +12,8 @@ th 9/3 | [terminal notes](https://github.com/mrWallaceMadeira/lesson2) | how to 
 f 9/3 | [intellij notes](https://github.com/mrWallaceMadeira/lesson3) | how to use intellij, wrap up setup
 
 ###### Week 2
-- :test_tube:&nbsp;Lab 1 template [here](https://classroom.github.com/a/COn0x_SZ)
-- :test_tube:&nbsp;Lab 2 template [here](https://classroom.github.com/a/COn0x_SZ)
+- :test_tube:&nbsp;Lab 1 details [here](https://classroom.github.com/a/jtsLy4Xn)
+- :test_tube:&nbsp;Lab 2 details [here](https://classroom.github.com/a/COn0x_SZ)
 -----
 date | homework | classwork
 ---- | ------ | ---------
