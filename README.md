@@ -29,8 +29,8 @@ date | homework | classwork
 ---- | ------ | ---------
 m 9/14 | [:paperclip: conditionals](https://github.com/mrWallaceMadeira/lesson1) | quiz 9, lab 3
 tu 9/15 | [:paperclip: loops](https://google.com) | quiz 10, lab 3
-w 9/16 | [:paperclip: loops & conditionals](https://google.com) & ***bring review questions*** | quiz 11, lab 3
-th 9/17 | [:paperclip: review](https://google.com) | review
+w 9/16 | [:paperclip: loops & conditionals](https://google.com) & ***bring questions*** | quiz 11, lab 3
+th 9/17 | [:paperclip: review](https://google.com) & ***bring questions***| review
 fr 9/18 | [:paperclip: review](https://google.com) | :tada:&nbsp; **knowledge celebration**
 
 ###### Week 4
