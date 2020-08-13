@@ -14,6 +14,7 @@ f 9/3 | [intellij notes](https://github.com/mrWallaceMadeira/lesson3) | how to u
 ###### Week 2
 - :test_tube:&nbsp;Lab 1 details [here](https://classroom.github.com/a/jtsLy4Xn)
 - :test_tube:&nbsp;Lab 2 details [here](https://classroom.github.com/a/COn0x_SZ)
+- :muscle:&nbsp;Challenge problems [here](https://github.com/mrWallaceMadeira/challenge1)
 -----
 date | homework | classwork
 ---- | ------ | ---------
