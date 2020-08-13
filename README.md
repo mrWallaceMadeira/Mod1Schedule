@@ -18,11 +18,11 @@ f 9/3 | [intellij notes](https://github.com/mrWallaceMadeira/lesson3) | how to u
 -----
 date | homework | classwork
 ---- | ------ | ---------
-m 9/7 | [printing and strings](https://github.com/mrWallaceMadeira/lesson4) | lab 1, challenge problems
-tu 9/8 | [reading input](https://google.com) | lab 1, challenge problems
-w 9/9 | [numbers & arithmetic](https://google.com) | lab 1/2, challenge problems
-th 9/10 | [manipulating strings](https://google.com) | lab 2
-fr 9/11 | [booleans & logical ops](https://google.com) | labs 1 & 2 due, computer play day
+m 9/7 | [printing and strings](https://github.com/mrWallaceMadeira/lesson4) | lab & problems
+tu 9/8 | [reading input](https://google.com) | ditto
+w 9/9 | [numbers & arithmetic](https://google.com) | ditto
+th 9/10 | [manipulating strings](https://google.com) | ditto
+fr 9/11 | [booleans & logical ops](https://google.com) | ditto or topics
 
 ###### Week 3
 :test_tube:&nbsp; Lab 3 due by **end of class Thursday**
