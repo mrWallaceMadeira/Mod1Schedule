@@ -1,6 +1,4 @@
 ### Mod 1&nbsp; :date:
------
-:round_pushpin:&nbsp; What is listed as homework is to be done _before_ class on the specified day
 
 ###### Week 1
 - No labs this week, just getting set up
