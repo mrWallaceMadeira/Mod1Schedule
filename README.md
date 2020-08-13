@@ -22,7 +22,7 @@ m 9/7 | [printing and strings](https://github.com/mrWallaceMadeira/lesson4) | la
 tu 9/8 | [reading input](https://google.com) | ditto
 w 9/9 | [numbers & arithmetic](https://google.com) | ditto
 th 9/10 | [manipulating strings](https://google.com) | ditto
-fr 9/11 | [booleans & logical ops](https://google.com) | ditto or topics
+fr 9/11 | [booleans & logical ops](https://google.com) | ditto or topics (_if labs are complete_)
 
 ###### Week 3
 :test_tube:&nbsp; Lab 3 due by **end of class Thursday**
