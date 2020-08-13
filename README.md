@@ -17,10 +17,10 @@ f 9/3 | [intellij notes](https://github.com/mrWallaceMadeira/lesson3) | how to u
 date | homework | classwork
 ---- | ------ | ---------
 m 9/7 | [printing and strings](https://github.com/mrWallaceMadeira/lesson4) | lab & problems
-tu 9/8 | [reading input](https://google.com) | ditto
-w 9/9 | [numbers & arithmetic](https://google.com) | ditto
-th 9/10 | [manipulating strings](https://google.com) | ditto
-fr 9/11 | [booleans & logical ops](https://google.com) | ditto or topics (_if labs are complete_)
+tu 9/8 | [reading input](https://github.com/mrWallaceMadeira/lesson5) | ditto
+w 9/9 | [numbers & arithmetic](https://github.com/mrWallaceMadeira/lesson6) | ditto
+th 9/10 | [manipulating strings](https://github.com/mrWallaceMadeira/lesson7) | ditto
+fr 9/11 | [booleans & logical ops](https://github.com/mrWallaceMadeira/lesson8) | ditto or topics (_if labs are complete_)
 
 ###### Week 3
 :test_tube:&nbsp; Lab 3 due by **end of class Thursday**
