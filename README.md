@@ -6,26 +6,26 @@ As outlined in my [sales pitch](https://github.com/mrWallaceMadeira/SalesPitch) 
   2. Learn to write Java code along the way
 
 ### Daily view
-  ###### Before class
-    - [x] Read the lesson and watch the linked videos (if applicable)
-    - [x] Prepare questions 
-  ###### During class (B Block)
-    - [x] I'll set up a Teams meeting to write code, ask questions and collaborate
-    - [x] Serves as time to work on labs and challenge problems
-  If you cannot make class due to time zone constraints, I'll have another time during the day to answer questions. 
+###### Before class
+  - [x] Read the lesson and watch the linked videos (if applicable)
+  - [x] Prepare questions 
+###### During class (B Block)
+  - [x] I'll set up a Teams meeting to write code, ask questions and collaborate
+  - [x] Serves as time to work on labs and challenge problems
+If you cannot make class due to time zone constraints, I'll have another time during the day to answer questions. 
 
-  ### Types of work
-  Your work will fall into three broad categories: coding, entry tickets, reflection
-  ###### Coding: labs and challenge problems
-  All labs can be found [here](https://github.com/mrWallaceMadeira/Mod1Labs)\
-  To get started on a lab or challenge problem:
-    - [x] Click on the folder that says `src/madeira/cs`
-    - [x] Find the lab number that corresponds with the lab you're working on
-    - [x] Copy and paste the code & comments into your IntelliJ file & start `coding`
-  ###### Entry tickets
-  Entry tickets are **required** to attend class. They are provided as a link at the end of the associated lesson. 
-  ###### Reflection
-  Reflections are done in response to our special topics days. These are written in your class OneNote notebook.
+### Types of work
+Your work will fall into three broad categories: coding, entry tickets, reflection
+###### Coding: labs and challenge problems
+All labs can be found [here](https://github.com/mrWallaceMadeira/Mod1Labs)\
+To get started on a lab or challenge problem:
+  - [x] Click on the folder that says `src/madeira/cs`
+  - [x] Find the lab number that corresponds with the lab you're working on
+  - [x] Copy and paste the code & comments into your IntelliJ file & start `coding`
+###### Entry tickets
+Entry tickets are **required** to attend class. They are provided as a link at the end of the associated lesson. 
+###### Reflection
+Reflections are done in response to our special topics days. These are written in your class OneNote notebook.
 
 ### Schedule&nbsp; :date:
 
@@ -33,10 +33,10 @@ As outlined in my [sales pitch](https://github.com/mrWallaceMadeira/SalesPitch) 
 
 date | homework | classwork
 ---- | ------ | ---------
-tu 9/1 | please read [this](https://github.com/mrWallaceMadeira/salesPitch) before class| ~
+tu 9/1 | please read [this](https://github.com/mrWallaceMadeira/salesPitch) and [the syllabus](https://github.com/mrWallaceMadeira/Mod1Syllabus) before class. bring questions| ~
 w 9/2 | [setup](https://github.com/mrWallaceMadeira/setupGuide) | setup
-th 9/3 | [terminal & git 1](https://github.com/mrWallaceMadeira/lesson2) | using terminal with git
-f 9/3 | [terminal & git 2](https://github.com/mrWallaceMadeira/lesson3) | how to use intellij, wrap up setup
+th 9/3 | [how to use intellij](https://github.com/mrWallaceMadeira/intelliJPrimer) | setup
+f 9/3 | [topics: command line](https://github.com/mrWallaceMadeira/commandLineBasics) | finish setup & practice command line
 
 ###### Week 2
 :test_tube:&nbsp;Labs 1 & 2 **due fr 9/11**
