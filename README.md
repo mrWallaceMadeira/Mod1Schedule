@@ -1,14 +1,13 @@
 ### Mod 1&nbsp; :date:
 
 ###### Week 1
-- No labs this week, just getting set up
------
+
 date | homework | classwork
 ---- | ------ | ---------
-t 9/1 | please read [this](https://github.com/mrWallaceMadeira/salesPitch) and [this](https://github.com/mrWallaceMadeira/setupGuide) before class| ~
-w 9/2 | [git setup notes](https://github.com/mrWallaceMadeira/lesson1) | how to use git
-th 9/3 | [terminal notes](https://github.com/mrWallaceMadeira/lesson2) | how to use terminal with git
-f 9/3 | [intellij notes](https://github.com/mrWallaceMadeira/lesson3) | how to use intellij, wrap up setup
+tu 9/1 | please read [this](https://github.com/mrWallaceMadeira/salesPitch) before class| ~
+w 9/2 | [setup](https://github.com/mrWallaceMadeira/setupGuide) | setup
+th 9/3 | [terminal & git 1](https://github.com/mrWallaceMadeira/lesson2) | using terminal with git
+f 9/3 | [terminal & git 2](https://github.com/mrWallaceMadeira/lesson3) | how to use intellij, wrap up setup
 
 ###### Week 2
 - :test_tube:&nbsp;Lab 1 details [here](https://classroom.github.com/a/jtsLy4Xn)
