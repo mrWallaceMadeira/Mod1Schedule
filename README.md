@@ -1,14 +1,32 @@
 # Intro to Computer Science
 
-### Format
-Your work will fall into three broad categories
-  - [x] Labs & challenge problems
-    - These are where the majority of your coding practice will happpen
-  - [x] Notes & entry tickets 
-    - This is the majority of your "homework" (an antiquated term in the age of COVID-19)
-  - [x] Reflections
-    - These are written in OneNote & in response to our "Special Topics" days
+### Course objectives
+As outlined in my [sales pitch](https://github.com/mrWallaceMadeira/SalesPitch) to you all, the goal of this class is two-fold:
+  1. Improve your understanding and comfort with technology, computers and coding
+  2. Learn to write Java code along the way
 
+### Daily view
+###### Before class
+  - [x] Read the lesson and watch the linked videos (if applicable)
+  - [x] Prepare questions 
+###### During class (B Block)
+  - [x] I'll set up a Teams meeting to write code, ask questions and collaborate
+  - [x] Serves as time to work on labs and challenge problems
+If you cannot make class due to time zone constraints, I'll have another time during the day to answer questions. 
+
+### Types of work
+Your work will fall into three broad categories: coding, entry tickets, reflection
+###### Coding: labs and challenge problems
+All labs can be found [here](https://github.com/mrWallaceMadeira/Mod1Labs)\
+To get started on a lab or challenge problem:
+  - [x] Click on the folder that says `src/madeira/cs`
+  - [x] Find the lab number that corresponds with the lab you're working on
+  - [x] Copy and paste the code & comments into your IntelliJ file & start `coding`
+###### Entry tickets
+Entry tickets are **required** to attend class. They are provided as a link at the end of the associated lesson. 
+###### Reflection
+Reflections are done in response to our special topics days. These are written in your class OneNote notebook.
+  
 ### Schedule&nbsp; :date:
 
 ###### Week 1
@@ -61,12 +79,7 @@ fr 10/2 | [:paperclip: manipulating strings](https://google.com) | :trophy:&nbsp
 
 
 ### Labs&nbsp;:test_tube:
-All labs can be found [here](https://github.com/mrWallaceMadeira/Mod1Labs)
-To get started on a lab:
-  - [x] Click on the folder that ends in `src`
-  - [x] Find the lab number that corresponds with the lab you're working on
-  - [x] Copy and paste the code & comments into your IntelliJ file
-  
+
   
 ### Un-fun stuff: grading & cheating
  ###### Cheating
