@@ -1,8 +1,17 @@
 # Intro to Computer Science
 
-### Schedule 
+### Format
+Your work will fall into three broad categories
+  - [x] Labs & challenge problems
+    - These are where the majority of your coding practice will happpen
+  - [x] Notes & entry tickets 
+    - This is the majority of your "homework" (an antiquated term in the age of COVID-19)
+  - [x] Reflections
+    - These are written in OneNote & in response to our "Special Topics" days
 
-###### Week 1&nbsp; :date:
+### Schedule&nbsp; :date:
+
+###### Week 1
 
 date | homework | classwork
 ---- | ------ | ---------
