@@ -1,9 +1,9 @@
-### Mod 1&nbsp; :date:
 
 ###### Labs&nbsp;:test_tube:
 
+### Schedule 
 
-###### Week 1
+###### Week 1&nbsp; :date:
 
 date | homework | classwork
 ---- | ------ | ---------
