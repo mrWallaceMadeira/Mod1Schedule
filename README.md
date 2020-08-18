@@ -1,5 +1,8 @@
 ### Mod 1&nbsp; :date:
 
+###### Labs&nbsp;:test_tube:
+
+
 ###### Week 1
 
 date | homework | classwork
@@ -10,10 +13,7 @@ th 9/3 | [terminal & git 1](https://github.com/mrWallaceMadeira/lesson2) | using
 f 9/3 | [terminal & git 2](https://github.com/mrWallaceMadeira/lesson3) | how to use intellij, wrap up setup
 
 ###### Week 2
-- :test_tube:&nbsp;Lab 1 details [here](https://classroom.github.com/a/jtsLy4Xn)
-- :test_tube:&nbsp;Lab 2 details [here](https://classroom.github.com/a/COn0x_SZ)
-- :muscle:&nbsp;Challenge problems [here](https://github.com/mrWallaceMadeira/challenge1)
------
+:test_tube:&nbsp;Labs 1 & 2 **due fr 9/11**
 date | homework | classwork
 ---- | ------ | ---------
 m 9/7 | [printing and strings](https://github.com/mrWallaceMadeira/lesson4) | lab & problems
@@ -23,7 +23,7 @@ th 9/10 | [manipulating strings](https://github.com/mrWallaceMadeira/lesson7) | 
 fr 9/11 | [booleans & logical ops](https://github.com/mrWallaceMadeira/lesson8) | ditto or topics (_if labs are complete_)
 
 ###### Week 3
-:test_tube:&nbsp; Lab 3 due by **end of class Thursday**
+:test_tube:&nbsp; Lab 3 due by **th 9/17**
 date | homework | classwork
 ---- | ------ | ---------
 m 9/14 | [:paperclip: conditionals](https://github.com/mrWallaceMadeira/lesson1) | quiz 9, lab 3
@@ -33,7 +33,7 @@ th 9/17 | [:paperclip: review](https://google.com) & **bring questions**| review
 fr 9/18 | [:paperclip: review](https://google.com) | :tada:&nbsp; **knowledge celebration**
 
 ###### Week 4
-:test_tube:&nbsp; Labs 4 and 5 due by **end of class Friday**
+:test_tube:&nbsp; Labs 4 and 5 due by **fr 9/25**
 date | homework | classwork
 ---- | ------ | ---------
 m 9/21 | [:paperclip: more loops](https://github.com/mrWallaceMadeira/lesson1) | quiz 12, lab 4
@@ -43,7 +43,6 @@ th 9/24 | [:paperclip: final project/ spc. top.](https://google.com) | quiz 15, 
 fr 9/25 | [:paperclip: spc. top.](https://google.com) | quiz 16, finish labs
 
 ###### Week 5
-:test_tube:&nbsp; Final project due by **end of class Wednesday**
 date | homework | classwork
 ---- | ------ | ---------
 m 9/28 | [:paperclip: printing and strings](https://github.com/mrWallaceMadeira/lesson1) | review & project
