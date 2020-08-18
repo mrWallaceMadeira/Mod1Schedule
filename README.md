@@ -60,11 +60,24 @@ th 10/1 | [:paperclip: manipulating strings](https://google.com) | :tada:&nbsp; 
 fr 10/2 | [:paperclip: manipulating strings](https://google.com) | :trophy:&nbsp; **project presentations**
 
 
-### 
-Labs&nbsp;:test_tube:
+### Labs&nbsp;:test_tube:
 All labs can be found [here](https://github.com/mrWallaceMadeira/Mod1Labs)
 To get started on a lab:
   - [x] Click on the folder that ends in `src`
   - [x] Find the lab number that corresponds with the lab you're working on
   - [x] Copy and paste the code & comments into your IntelliJ file
-###
+  
+  
+### Un-fun stuff: grading & cheating
+ ###### Cheating
+ This class should be fun and collaborative. **Do not** directly copy code from your classmates or the Interweb.  
+ Still confused on cheating? It looks like [this](https://static01.nyt.com/images/2012/10/23/sports/YJPARMSTRONG1/YJPARMSTRONG1-superJumbo.jpg?quality=90&auto=webp)
+ ###### Grading
+ |Item|Points|Type|
+ |---|------|-----|
+ exit tickets & reflections|1/day = 23 total|completion
+ class/online engagement|1/day = 23 total|completion
+ labs|10/lab = 60 total|rubric
+ challenge problems|6/set = 24 total|rubric
+ **total**|160| ~
+ 
