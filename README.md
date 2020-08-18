@@ -77,9 +77,6 @@ w 9/30 | [:paperclip: numbers & arithmetic](https://google.com) | review & proje
 th 10/1 | [:paperclip: manipulating strings](https://google.com) | :tada:&nbsp; **cumulative knowledge celebration**
 fr 10/2 | [:paperclip: manipulating strings](https://google.com) | :trophy:&nbsp; **project presentations**
 
-
-### Labs&nbsp;:test_tube:
-
   
 ### Un-fun stuff: grading & cheating
  ###### Cheating
