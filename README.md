@@ -1,7 +1,5 @@
 # Intro to Computer Science
 
-###### Labs&nbsp;:test_tube:
-
 ### Schedule 
 
 ###### Week 1&nbsp; :date:
@@ -53,3 +51,11 @@ th 10/1 | [:paperclip: manipulating strings](https://google.com) | :tada:&nbsp; 
 fr 10/2 | [:paperclip: manipulating strings](https://google.com) | :trophy:&nbsp; **project presentations**
 
 
+### 
+Labs&nbsp;:test_tube:
+All labs can be found [here](https://github.com/mrWallaceMadeira/Mod1Labs)
+To get started on a lab:
+  - [x] Click on the folder that ends in `src`
+  - [x] Find the lab number that corresponds with the lab you're working on
+  - [x] Copy and paste the code & comments into your IntelliJ file
+###
