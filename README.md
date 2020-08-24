@@ -75,8 +75,8 @@ date | homework | classwork
 m 9/28 | [presentation guidlines]() | special topics I
 tu 9/29 | presentation work | special topics II
 w 9/30 | presentation work | presentation work
-th 10/1 | [:paperclip: manipulating strings](https://google.com) | :trophy:&nbsp; **project presentations**
-fr 10/2 | [:paperclip: manipulating strings](https://google.com) | :trophy:&nbsp; **project presentations**
+th 10/1 | presentation work | :trophy:&nbsp; **project presentations**
+fr 10/2 | presentation work | :trophy:&nbsp; **project presentations**
 
   
 ### Un-fun stuff: grading & cheating
