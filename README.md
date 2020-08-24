@@ -52,10 +52,10 @@ fr 9/11 | [booleans & logical ops](https://github.com/mrWallaceMadeira/lesson8) 
 :test_tube:&nbsp; Lab 3 due by **th 9/17**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/14 | [:paperclip: conditionals](https://github.com/mrWallaceMadeira/lesson1) |
-tu 9/15 | [:paperclip: loops](https://google.com) | 
-w 9/16 | [:paperclip: loops & conditionals](https://google.com) & **bring questions** | 
-th 9/17 | [:paperclip: review](https://google.com) & **bring questions**| review
+m 9/14 | [conditionals](https://github.com/mrWallaceMadeira/lesson9) | lab 3
+tu 9/15 | [:recycle: loops](https://github.com/mrWallaceMadeira/lesson10) | lab 3
+w 9/16 | [loops & conditionals](https://google.com) & bring questions | lab 3
+th 9/17 | [:paperclip: review](https://google.com) & bring questions| review
 fr 9/18 | [:paperclip: review](https://google.com) | :tada:&nbsp; **knowledge celebration**
 
 ###### Week 4
