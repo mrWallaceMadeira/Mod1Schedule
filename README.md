@@ -62,19 +62,20 @@ fr 9/18 | [:paperclip: review](https://google.com) | :tada:&nbsp; **knowledge ce
 :test_tube:&nbsp; Labs 4 and 5 due by **fr 9/25**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/21 | [:paperclip: more loops](https://github.com/mrWallaceMadeira/lesson1) |
-tu 9/22 | [:paperclip: putting things together](https://google.com) |
-w 9/23 | [:paperclip: final project intro](https://google.com) |
-th 9/24 | [:paperclip: final project/ spc. top.](https://google.com) |
-fr 9/25 | [:paperclip: spc. top.](https://google.com) |
+m 9/21 | [more loops](https://github.com/mrWallaceMadeira/lesson1)| lab 4
+tu 9/22 | [advanced: functions & methods](https://google.com) |lab 4
+w 9/23 | |[advanced: functions & methods II](https://google.com)| lab 4/5
+th 9/24 |[advanced: arrays & complex data structures](https://google.com)| lab 4/5
+fr 9/25 |[putting it together]()| lab 4/5
 
 ###### Week 5
+presentation topics due **m 9/28**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/28 | [:paperclip: printing and strings](https://github.com/mrWallaceMadeira/lesson1) | review & project
-tu 9/29 | [:paperclip: reading input](https://google.com) | review & project
-w 9/30 | [:paperclip: numbers & arithmetic](https://google.com) | review & project
-th 10/1 | [:paperclip: manipulating strings](https://google.com) | :tada:&nbsp; **cumulative knowledge celebration**
+m 9/28 | [presentation guidlines]() | special topics I
+tu 9/29 | presentation work | special topics II
+w 9/30 | presentation work | presentation work
+th 10/1 | [:paperclip: manipulating strings](https://google.com) | :trophy:&nbsp; **project presentations**
 fr 10/2 | [:paperclip: manipulating strings](https://google.com) | :trophy:&nbsp; **project presentations**
 
   
@@ -87,8 +88,8 @@ fr 10/2 | [:paperclip: manipulating strings](https://google.com) | :trophy:&nbsp
  |---|------|-----|
  exit tickets & reflections|1/day = 22 total|completion
  class/online engagement|1/day = 22 total|completion
- labs|10/lab = 60 total|rubric
+ labs|10/lab = 50 total|rubric
  final project|40|rubric
  extra credit problems|6|rubric
- **total**|150| ~
+ **total**|140| ~
  
