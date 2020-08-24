@@ -12,7 +12,7 @@ As outlined in my [sales pitch](https://github.com/mrWallaceMadeira/SalesPitch) 
 ###### During class (B Block, 10:45AM - 12PM Eastern)
   - [x] I'll set up a Teams meeting to write code, ask questions and collaborate
   - [x] Serves as time to work on labs and challenge problems
-If you cannot make class due to time zone constraints, **your scheduled connection time is 8-8:20AM Eastern** 
+  - [x] Alternative scheduled connection time is **8-8:20AM Eastern** 
 
 ### Types of work
 Your work will fall into three broad categories: coding, entry tickets, reflection
@@ -52,9 +52,9 @@ fr 9/11 | [booleans & logical ops](https://github.com/mrWallaceMadeira/lesson8) 
 :test_tube:&nbsp; Lab 3 due by **th 9/17**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/14 | [:paperclip: conditionals](https://github.com/mrWallaceMadeira/lesson1) | quiz 9, lab 3
-tu 9/15 | [:paperclip: loops](https://google.com) | quiz 10, lab 3
-w 9/16 | [:paperclip: loops & conditionals](https://google.com) & **bring questions** | quiz 11, lab 3
+m 9/14 | [:paperclip: conditionals](https://github.com/mrWallaceMadeira/lesson1) |
+tu 9/15 | [:paperclip: loops](https://google.com) | 
+w 9/16 | [:paperclip: loops & conditionals](https://google.com) & **bring questions** | 
 th 9/17 | [:paperclip: review](https://google.com) & **bring questions**| review
 fr 9/18 | [:paperclip: review](https://google.com) | :tada:&nbsp; **knowledge celebration**
 
@@ -62,11 +62,11 @@ fr 9/18 | [:paperclip: review](https://google.com) | :tada:&nbsp; **knowledge ce
 :test_tube:&nbsp; Labs 4 and 5 due by **fr 9/25**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/21 | [:paperclip: more loops](https://github.com/mrWallaceMadeira/lesson1) | quiz 12, lab 4
-tu 9/22 | [:paperclip: putting things together](https://google.com) | quiz 13, lab 4
-w 9/23 | [:paperclip: final project intro](https://google.com) | quiz 14, lab 4 / 5
-th 9/24 | [:paperclip: final project/ spc. top.](https://google.com) | quiz 15, lab 5
-fr 9/25 | [:paperclip: spc. top.](https://google.com) | quiz 16, finish labs
+m 9/21 | [:paperclip: more loops](https://github.com/mrWallaceMadeira/lesson1) |
+tu 9/22 | [:paperclip: putting things together](https://google.com) |
+w 9/23 | [:paperclip: final project intro](https://google.com) |
+th 9/24 | [:paperclip: final project/ spc. top.](https://google.com) |
+fr 9/25 | [:paperclip: spc. top.](https://google.com) |
 
 ###### Week 5
 date | homework | classwork
@@ -85,9 +85,10 @@ fr 10/2 | [:paperclip: manipulating strings](https://google.com) | :trophy:&nbsp
  ###### Grading
  |Item|Points|Type|
  |---|------|-----|
- exit tickets & reflections|1/day = 23 total|completion
- class/online engagement|1/day = 23 total|completion
+ exit tickets & reflections|1/day = 22 total|completion
+ class/online engagement|1/day = 22 total|completion
  labs|10/lab = 60 total|rubric
+ final project|30 total|rubric
  challenge problems|6/set = 24 total|rubric
  **total**|160| ~
  
