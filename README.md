@@ -9,10 +9,10 @@ As outlined in my [sales pitch](https://github.com/mrWallaceMadeira/SalesPitch) 
 ###### Before class
   - [x] Read the lesson and watch the linked videos (if applicable)
   - [x] Prepare questions 
-###### During class (B Block)
+###### During class (B Block, 10:45AM - 12PM Eastern)
   - [x] I'll set up a Teams meeting to write code, ask questions and collaborate
   - [x] Serves as time to work on labs and challenge problems
-If you cannot make class due to time zone constraints, I'll have another time during the day to answer questions. 
+If you cannot make class due to time zone constraints, **your scheduled connection time is 8-8:20AM Eastern** 
 
 ### Types of work
 Your work will fall into three broad categories: coding, entry tickets, reflection
