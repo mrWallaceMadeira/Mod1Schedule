@@ -88,7 +88,7 @@ fr 10/2 | [:paperclip: manipulating strings](https://google.com) | :trophy:&nbsp
  exit tickets & reflections|1/day = 22 total|completion
  class/online engagement|1/day = 22 total|completion
  labs|10/lab = 60 total|rubric
- final project|30 total|rubric
- challenge problems|6/set = 24 total|rubric
- **total**|160| ~
+ final project|40|rubric
+ extra credit problems|6|rubric
+ **total**|150| ~
  
