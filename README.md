@@ -64,7 +64,7 @@ date | homework | classwork
 ---- | ------ | ---------
 m 9/21 | [more loops](https://github.com/mrWallaceMadeira/lesson1)| lab 4
 tu 9/22 | [advanced: functions & methods](https://google.com) |lab 4
-w 9/23 | |[advanced: functions & methods II](https://google.com)| lab 4/5
+w 9/23 |[advanced: functions & methods II](https://google.com)| lab 4/5
 th 9/24 |[advanced: arrays & complex data structures](https://google.com)| lab 4/5
 fr 9/25 |[putting it together]()| lab 4/5
 
