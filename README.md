@@ -36,34 +36,34 @@ w 9/2 | [setup](https://github.com/mrWallaceMadeira/setupGuide) | setup
 th 9/3 | [workflow](https://github.com/mrWallaceMadeira/workflow) | setup & workflow
 f 9/3 | ~ | finish setup & java intro
 ###### Week 2
-:test_tube:&nbsp;Labs 1 & 2 **due fr 9/11**
+:test_tube:&nbsp;Labs 1 & 2 **due f 9/11**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/7 | [printing and strings](https://github.com/mrWallaceMadeira/printingAndStrings) | lab & problems
-tu 9/8 | [reading input](https://github.com/mrWallaceMadeira/readingInput) | ditto
-w 9/9 | [numbers & arithmetic](https://github.com/mrWallaceMadeira/arithmetic) | ditto
-th 9/10 | [manipulating strings](https://github.com/mrWallaceMadeira/stringMethods) | ditto
-fr 9/11 | [booleans & logical ops](https://github.com/mrWallaceMadeira/booleans) | ditto or topics (_if labs are complete_)
+m 9/7 | &nbsp;:sleep:&nbsp; | &nbsp;:sleep:&nbsp;
+tu 9/8 | [printing and strings](https://github.com/mrWallaceMadeira/printingAndStrings) | labs & challenge problems
+w 9/9 | [reading input](https://github.com/mrWallaceMadeira/readingInput) | ditto
+th 9/10 | [numbers & arithmetic](https://github.com/mrWallaceMadeira/arithmetic) | ditto
+f 9/11 | [booleans & logical ops](https://github.com/mrWallaceMadeira/booleans) | ditto or topics (_if labs are complete_)
 
 ###### Week 3
 :test_tube:&nbsp; Lab 3 due by **th 9/17**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/14 | [conditionals](https://github.com/mrWallaceMadeira/lesson9) | lab 3
-tu 9/15 | [:recycle:](https://github.com/mrWallaceMadeira/lesson10) | lab 3
-w 9/16 | [:recycle: & conditionals](https://google.com) & bring questions | lab 3
+m 9/14 | [conditionals](https://github.com/mrWallaceMadeira/lesson9) | labs & challenge problems
+tu 9/15 | [:recycle:](https://github.com/mrWallaceMadeira/lesson10) | ditto
+w 9/16 | [:recycle: & conditionals](https://google.com) & bring questions | ditto
 th 9/17 | [review](https://google.com) & bring questions| review
-fr 9/18 | [review](https://google.com) | :tada:&nbsp; **knowledge celebration**
+f 9/18 | [review](https://google.com) | :tada:&nbsp; **knowledge celebration**
 
 ###### Week 4
-:test_tube:&nbsp; Labs 4 and 5 due by **fr 9/25**
+:test_tube:&nbsp; Labs 4 and 5 due by **f 9/25**
 date | homework | classwork
 ---- | ------ | ---------
 m 9/21 | [more loops](https://github.com/mrWallaceMadeira/lesson1)| lab 4
 tu 9/22 | [advanced: functions & methods](https://google.com) |lab 4
 w 9/23 |[advanced: functions & methods II](https://google.com)| lab 4/5
 th 9/24 |[advanced: arrays & complex data structures](https://google.com)| lab 4/5
-fr 9/25 |[putting it together]()| lab 4/5
+f 9/25 |[putting it together]()| lab 4/5
 
 ###### Week 5
 presentation topics due **m 9/28**
@@ -73,7 +73,7 @@ m 9/28 | [presentation guidlines]() | special topics I
 tu 9/29 | presentation work | special topics II
 w 9/30 | presentation work | presentation work
 th 10/1 | presentation work | :trophy:&nbsp; **project presentations**
-fr 10/2 | presentation work | :trophy:&nbsp; **project presentations**
+f 10/2 | presentation work | :trophy:&nbsp; **project presentations**
 
   
 ### Un-fun stuff: grading & cheating
