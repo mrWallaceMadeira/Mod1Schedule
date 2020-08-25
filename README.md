@@ -43,7 +43,7 @@ m 9/7 | &nbsp;:zzz:&nbsp; | &nbsp;:zzz:&nbsp;
 tu 9/8 | [printing and strings](https://github.com/mrWallaceMadeira/printingAndStrings) | labs & challenge problems
 w 9/9 | [reading input](https://github.com/mrWallaceMadeira/readingInput) | ditto
 th 9/10 | [numbers & arithmetic](https://github.com/mrWallaceMadeira/arithmetic) | ditto
-f 9/11 | [booleans & logical ops](https://github.com/mrWallaceMadeira/booleans) | ditto or topics (_if labs are complete_)
+f 9/11 | [booleans & logical ops](https://github.com/mrWallaceMadeira/booleans) | ditto
 
 ###### Week 3
 :test_tube:&nbsp; Lab 3 due by **th 9/17**
