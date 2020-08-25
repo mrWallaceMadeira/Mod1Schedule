@@ -24,8 +24,6 @@ To get started on a lab or challenge problem:
   - [x] Copy and paste the code & comments into your IntelliJ file & start `coding`
 ###### Entry tickets
 Entry tickets are **required** to attend class. They are provided as a link at the end of the associated lesson. 
-###### Reflection
-Reflections are done in response to our special topics days. These are written in your class OneNote notebook.
 
 ### Schedule&nbsp; :date:
 
@@ -52,10 +50,10 @@ fr 9/11 | [booleans & logical ops](https://github.com/mrWallaceMadeira/lesson8) 
 date | homework | classwork
 ---- | ------ | ---------
 m 9/14 | [conditionals](https://github.com/mrWallaceMadeira/lesson9) | lab 3
-tu 9/15 | [:recycle: loops](https://github.com/mrWallaceMadeira/lesson10) | lab 3
-w 9/16 | [loops & conditionals](https://google.com) & bring questions | lab 3
-th 9/17 | [:paperclip: review](https://google.com) & bring questions| review
-fr 9/18 | [:paperclip: review](https://google.com) | :tada:&nbsp; **knowledge celebration**
+tu 9/15 | [:recycle:](https://github.com/mrWallaceMadeira/lesson10) | lab 3
+w 9/16 | [:recycle: & conditionals](https://google.com) & bring questions | lab 3
+th 9/17 | [review](https://google.com) & bring questions| review
+fr 9/18 | [review](https://google.com) | :tada:&nbsp; **knowledge celebration**
 
 ###### Week 4
 :test_tube:&nbsp; Labs 4 and 5 due by **fr 9/25**
