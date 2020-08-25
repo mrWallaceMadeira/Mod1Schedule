@@ -35,9 +35,8 @@ date | homework | classwork
 ---- | ------ | ---------
 tu 9/1 | please read [this](https://github.com/mrWallaceMadeira/salesPitch) and [the syllabus](https://github.com/mrWallaceMadeira/Mod1Syllabus) before class. bring questions| ~
 w 9/2 | [setup](https://github.com/mrWallaceMadeira/setupGuide) | setup
-th 9/3 | [how to use intellij](https://github.com/mrWallaceMadeira/intelliJPrimer) | setup
-f 9/3 | [topics: command line](https://github.com/mrWallaceMadeira/commandLineBasics) | finish setup & practice command line
-
+th 9/3 | [workflow](https://github.com/mrWallaceMadeira/workflow) | setup & workflow
+f 9/3 | [java intro](https://github.com/mrWallaceMadeira/javaIntro) | finish setup & java intro
 ###### Week 2
 :test_tube:&nbsp;Labs 1 & 2 **due fr 9/11**
 date | homework | classwork
