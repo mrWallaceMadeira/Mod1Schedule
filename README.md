@@ -39,7 +39,7 @@ f 9/3 | ~ | finish setup & java intro
 :test_tube:&nbsp;Labs 1 & 2 **due f 9/11**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/7 | &nbsp;:sleep:&nbsp; | &nbsp;:sleep:&nbsp;
+m 9/7 | &nbsp;:zzz:&nbsp; | &nbsp;:zzz:&nbsp;
 tu 9/8 | [printing and strings](https://github.com/mrWallaceMadeira/printingAndStrings) | labs & challenge problems
 w 9/9 | [reading input](https://github.com/mrWallaceMadeira/readingInput) | ditto
 th 9/10 | [numbers & arithmetic](https://github.com/mrWallaceMadeira/arithmetic) | ditto
