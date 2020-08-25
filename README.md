@@ -39,11 +39,11 @@ f 9/3 | ~ | finish setup & java intro
 :test_tube:&nbsp;Labs 1 & 2 **due fr 9/11**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/7 | [printing and strings](https://github.com/mrWallaceMadeira/lesson4) | lab & problems
-tu 9/8 | [reading input](https://github.com/mrWallaceMadeira/lesson5) | ditto
-w 9/9 | [numbers & arithmetic](https://github.com/mrWallaceMadeira/lesson6) | ditto
-th 9/10 | [manipulating strings](https://github.com/mrWallaceMadeira/lesson7) | ditto
-fr 9/11 | [booleans & logical ops](https://github.com/mrWallaceMadeira/lesson8) | ditto or topics (_if labs are complete_)
+m 9/7 | [printing and strings](https://github.com/mrWallaceMadeira/printingAndStrings) | lab & problems
+tu 9/8 | [reading input](https://github.com/mrWallaceMadeira/readingInput) | ditto
+w 9/9 | [numbers & arithmetic](https://github.com/mrWallaceMadeira/arithmetic) | ditto
+th 9/10 | [manipulating strings](https://github.com/mrWallaceMadeira/stringMethods) | ditto
+fr 9/11 | [booleans & logical ops](https://github.com/mrWallaceMadeira/booleans) | ditto or topics (_if labs are complete_)
 
 ###### Week 3
 :test_tube:&nbsp; Lab 3 due by **th 9/17**
