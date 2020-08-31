@@ -69,7 +69,7 @@ f 9/25 |[practice makes ~~perfect~~ marginal improvements!](https://github.com/m
 presentation topics due **m 9/28**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/28 | [presentation guidlines](https://github.com/mrWallaceMadeira/presentationGuidelines) | presentation & [special topics I](https://github.com/mrWallaceMadeira/specialTopicsI)
+m 9/28 | [presentation guideines](https://github.com/mrWallaceMadeira/presentationGuidelines) | presentation & [special topics I](https://github.com/mrWallaceMadeira/specialTopicsI)
 tu 9/29 | presentation work | [special topics II](https://github.com/mrWallaceMadeira/specialTopicsII)
 w 9/30 | presentation work | presentation work **or** [special topics III](https://github.com/mrWallaceMadeira/specialTopicsIII)
 th 10/1 | presentation work | :trophy:&nbsp; **project presentations**
@@ -85,7 +85,7 @@ f 10/2 | presentation work | :trophy:&nbsp; **project presentations**
  |---|------|-----|
  exit tickets & reflections|1/day = 22 total|completion
  class/online engagement|1/day = 22 total|completion
- test|60|~
+ knowledge celebration|60|~
  labs|10/lab = 50 total|[rubric](https://themadeiraschool-my.sharepoint.com/:w:/r/personal/pwallace_madeira_org/Documents/Intro%20to%20CS/mod1/admin/labRubric.docx?d=wd7d4b47f2a3e4082ba44a6866b77f548&csf=1&web=1&e=pcfa8L)
  final project|40|[rubric](https://themadeiraschool-my.sharepoint.com/:w:/r/personal/pwallace_madeira_org/Documents/Intro%20to%20CS/mod1/admin/labRubric.docx?d=wd7d4b47f2a3e4082ba44a6866b77f548&csf=1&web=1&e=pcfa8L)
  extra credit problems|6|[rubric](https://themadeiraschool-my.sharepoint.com/:w:/r/personal/pwallace_madeira_org/Documents/Intro%20to%20CS/mod1/admin/labRubric.docx?d=wd7d4b47f2a3e4082ba44a6866b77f548&csf=1&web=1&e=pcfa8L)
