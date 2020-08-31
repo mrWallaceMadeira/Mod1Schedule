@@ -52,26 +52,26 @@ date | homework | classwork
 m 9/14 | [conditionals](https://github.com/mrWallaceMadeira/lesson9) | labs & challenge problems
 tu 9/15 | [:recycle:](https://github.com/mrWallaceMadeira/lesson10) | ditto
 w 9/16 | [:recycle: & conditionals](https://google.com) & bring questions | ditto
-th 9/17 | [review](https://google.com) & bring questions| review
-f 9/18 | [review](https://google.com) | :tada:&nbsp; **knowledge celebration**
+th 9/17 | [review](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUQklYTjdKUVlZNVY5VDFZRjJKS0haWVQ4OCQlQCN0PWcu) & bring questions| review
+f 9/18 | review | :tada:&nbsp; **knowledge celebration**
 
 ###### Week 4
 :test_tube:&nbsp; Labs 4 and 5 due by **f 9/25**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/21 | [more loops](https://github.com/mrWallaceMadeira/lesson1)| lab 4
-tu 9/22 | [advanced: functions & methods](https://google.com) |lab 4
-w 9/23 |[advanced: functions & methods II](https://google.com)| lab 4/5
-th 9/24 |[advanced: arrays & complex data structures](https://google.com)| lab 4/5
-f 9/25 |[putting it together]()| lab 4/5
+m 9/21 | [practice makes ~~perfect~~ marginal improvements!](https://github.com/mrWallaceMadeira/PracticeProblems)| lab 4
+tu 9/22 | [advanced: functions & methods I](https://github.com/mrWallaceMadeira/functionsAndMethodsI) |lab 4
+w 9/23 |[advanced: functions & methods II](https://github.com/mrWallaceMadeira/functionsAndMethodsII)| lab 4/5
+th 9/24 |[advanced: arrays & more](https://github.com/mrWallaceMadeira/arraysAndMore)| lab 4/5
+f 9/25 |[[practice makes ~~perfect~~ marginal improvements!](https://github.com/mrWallaceMadeira/PracticeProblems)| lab 4/5
 
 ###### Week 5
 presentation topics due **m 9/28**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/28 | [presentation guidlines]() | special topics I
-tu 9/29 | presentation work | special topics II
-w 9/30 | presentation work | presentation work
+m 9/28 | [presentation guidlines](https://github.com/mrWallaceMadeira/presentationGuidelines) | presentation & [special topics I](https://github.com/mrWallaceMadeira/specialTopicsI)
+tu 9/29 | presentation work | [special topics II](https://github.com/mrWallaceMadeira/specialTopicsII)
+w 9/30 | presentation work | presentation work **or** [special topics III](https://github.com/mrWallaceMadeira/specialTopicsIII)
 th 10/1 | presentation work | :trophy:&nbsp; **project presentations**
 f 10/2 | presentation work | :trophy:&nbsp; **project presentations**
 
