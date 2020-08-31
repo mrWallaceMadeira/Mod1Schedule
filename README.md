@@ -63,7 +63,7 @@ m 9/21 | [practice makes ~~perfect~~ marginal improvements!](https://github.com/
 tu 9/22 | [advanced: functions & methods I](https://github.com/mrWallaceMadeira/functionsAndMethodsI) |lab 4
 w 9/23 |[advanced: functions & methods II](https://github.com/mrWallaceMadeira/functionsAndMethodsII)| lab 4/5
 th 9/24 |[advanced: arrays & more](https://github.com/mrWallaceMadeira/arraysAndMore)| lab 4/5
-f 9/25 |[[practice makes ~~perfect~~ marginal improvements!](https://github.com/mrWallaceMadeira/PracticeProblems)| lab 4/5
+f 9/25 |[practice makes ~~perfect~~ marginal improvements!](https://github.com/mrWallaceMadeira/PracticeProblems)| lab 4/5
 
 ###### Week 5
 presentation topics due **m 9/28**
