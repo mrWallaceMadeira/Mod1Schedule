@@ -49,10 +49,10 @@ f 9/11 | [booleans & logical ops](https://github.com/mrWallaceMadeira/booleans) 
 :test_tube:&nbsp; Lab 3 due by **th 9/17**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/14 | [conditionals](https://github.com/mrWallaceMadeira/lesson9) | labs & challenge problems
-tu 9/15 | [:recycle:](https://github.com/mrWallaceMadeira/lesson10) | ditto
-w 9/16 | [:recycle: & conditionals](https://google.com) & bring questions | ditto
-th 9/17 | [review](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUQklYTjdKUVlZNVY5VDFZRjJKS0haWVQ4OCQlQCN0PWcu) & bring questions| review
+m 9/14 | [conditionals](https://github.com/mrWallaceMadeira/conditionals) | labs & challenge problems
+tu 9/15 | [:recycle:](https://github.com/mrWallaceMadeira/loops) | ditto
+w 9/16 | [:recycle: & conditionals](https://github.com/mrWallaceMadeira/loopsAndConditionals) & bring questions | ditto
+th 9/17 | [pregame](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUQklYTjdKUVlZNVY5VDFZRjJKS0haWVQ4OCQlQCN0PWcu) & bring questions| review
 f 9/18 | review | :tada:&nbsp; **knowledge celebration**
 
 ###### Week 4
