@@ -56,14 +56,14 @@ th 9/17 | [pregame](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFv
 f 9/18 | review | :tada:&nbsp; **knowledge celebration**
 
 ###### Week 4
-:test_tube:&nbsp; Labs 4 and 5 due by **f 9/25**
+:test_tube:&nbsp; SuperLab due by **f 9/25**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/21 | [practice makes ~~perfect~~ marginal improvements!](https://github.com/mrWallaceMadeira/PracticeProblems)| lab 4
-tu 9/22 | [advanced: functions & methods I](https://github.com/mrWallaceMadeira/functionsAndMethodsI) |lab 4
-w 9/23 |[advanced: functions & methods II](https://github.com/mrWallaceMadeira/functionsAndMethodsII)| lab 4/5
-th 9/24 |[advanced: arrays & more](https://github.com/mrWallaceMadeira/arraysAndMore)| lab 4/5
-f 9/25 |[practice makes ~~perfect~~ marginal improvements!](https://github.com/mrWallaceMadeira/PracticeProblems)| lab 4/5
+m 9/21 | [practice makes ~~perfect~~ marginal improvements!](https://github.com/mrWallaceMadeira/PracticeProblems)| SuperLab
+tu 9/22 | [advanced: functions & methods I](https://github.com/mrWallaceMadeira/functionsAndMethodsI) | SuperLab
+w 9/23 |[advanced: functions & methods II](https://github.com/mrWallaceMadeira/functionsAndMethodsII)| SuperLab
+th 9/24 |[advanced: arrays & more](https://github.com/mrWallaceMadeira/arraysAndMore)| SuperLab
+f 9/25 |[practice makes ~~perfect~~ marginal improvements!](https://github.com/mrWallaceMadeira/PracticeProblems)| **SuperLab due today**
 
 ###### Week 5
 presentation topics due **m 9/28**
