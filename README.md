@@ -34,15 +34,15 @@ date | homework | classwork
 tu 9/1 | please read [this](https://github.com/mrWallaceMadeira/salesPitch) and [the syllabus](https://github.com/mrWallaceMadeira/Mod1Syllabus) before class. bring questions| ~
 w 9/2 | [setup](https://github.com/mrWallaceMadeira/setupGuide) | setup
 th 9/3 | [workflow](https://github.com/mrWallaceMadeira/workflow) | setup & workflow
-f 9/3 | ~ | finish setup & java intro
+f 9/3 | ~ | finish setup, strings & lab 1
 ###### Week 2
 :test_tube:&nbsp;Labs 1 & 2 **due f 9/11**
 date | homework | classwork
 ---- | ------ | ---------
 m 9/7 | &nbsp;:zzz:&nbsp; | &nbsp;:zzz:&nbsp;
-tu 9/8 | [printing and strings](https://github.com/mrWallaceMadeira/printingAndStrings) | labs & challenge problems
-w 9/9 | [reading input](https://github.com/mrWallaceMadeira/readingInput) | ditto
-th 9/10 | [numbers & arithmetic](https://github.com/mrWallaceMadeira/arithmetic) | ditto
+tu 9/8 | labs 1/2 & challenge probs | strings, variables and methods
+w 9/9 | ditto | reading input 
+th 9/10 | ditto | numbers & arithmetic
 f 9/11 | [booleans & logical ops](https://github.com/mrWallaceMadeira/booleans) | ditto
 
 ###### Week 3
