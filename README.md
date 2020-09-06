@@ -59,19 +59,18 @@ f 9/18 | review | :tada:&nbsp; **knowledge celebration**
 :test_tube:&nbsp; SuperLab due by **f 9/25**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/21 | SuperLab & CP3 |[practice makes ~~perfect~~ marginal improvements!](https://github.com/mrWallaceMadeira/CumulativePracticeProblems)
-tu 9/22 | SuperLa|[advanced: functions & methods I](https://github.com/mrWallaceMadeira/functionsAndMethodsI)
-w 9/23 |[advanced: functions & methods II](https://github.com/mrWallaceMadeira/functionsAndMethodsII)| SuperLab
-th 9/24 |[advanced: arrays & more](https://github.com/mrWallaceMadeira/arraysAndMore)| SuperLab
-f 9/25 |[practice makes ~~perfect~~ marginal improvements!](https://github.com/mrWallaceMadeira/PracticeProblems)| **SuperLab due today**
-
+m 9/21 | SuperLab & Week 4 Challenge Problems |OOP I
+tu 9/22 | ditto | OOP II
+w 9/23 | ditto| towards complex data structures
+th 9/24 |ditto| work on SuperLab / question time
+f 9/25 | ~ | **SuperLab due**
 ###### Week 5
-presentation topics due **m 9/28**
+presentation topics due **tu 9/29**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/28 | [presentation guideines](https://github.com/mrWallaceMadeira/presentationGuidelines) | presentation & [special topics I](https://github.com/mrWallaceMadeira/specialTopicsI)
-tu 9/29 | presentation work | [special topics II](https://github.com/mrWallaceMadeira/specialTopicsII)
-w 9/30 | presentation work | presentation work **or** [special topics III](https://github.com/mrWallaceMadeira/specialTopicsIII)
+m 9/28 | find presentation topic | special topics I & presentation guidelines
+tu 9/29 | presentation work | special topics II
+w 9/30 | presentation work | presentation work **or** special topics III
 th 10/1 | presentation work | :trophy:&nbsp; **project presentations**
 f 10/2 | presentation work | :trophy:&nbsp; **project presentations**
 
