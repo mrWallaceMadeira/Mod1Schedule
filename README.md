@@ -82,7 +82,7 @@ f 10/2 | presentation work | :trophy:&nbsp; **project presentations**
  ###### Grading
  
  Some notes:
-  - [x] SuperLab 2 labs worth of points
+  - [x] SuperLab = 20 pts. 
   - [x] Challenge problems start on week 2 (tu 9/8)
      - 10 problems / week for 3 weeks
      - 5 are required, 5 are extra credit
