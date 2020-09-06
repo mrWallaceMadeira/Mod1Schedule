@@ -40,27 +40,27 @@ f 9/3 | ~ | finish setup, strings & lab 1
 date | homework | classwork
 ---- | ------ | ---------
 m 9/7 | &nbsp;:zzz:&nbsp; | &nbsp;:zzz:&nbsp;
-tu 9/8 | labs 1/2 & challenge probs | strings, variables and methods
+tu 9/8 | Labs 1 & 2 / Week 2 Challenge Problems | strings, variables and methods
 w 9/9 | ditto | reading input 
 th 9/10 | ditto | numbers & arithmetic
-f 9/11 | [booleans & logical ops](https://github.com/mrWallaceMadeira/booleans) | ditto
+f 9/11 | ditto |booleans & logical operations 
 
 ###### Week 3
 :test_tube:&nbsp; Lab 3 due by **th 9/17**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/14 | [conditionals](https://github.com/mrWallaceMadeira/conditionals) | labs & challenge problems
-tu 9/15 | [:recycle:](https://github.com/mrWallaceMadeira/loops) | ditto
-w 9/16 | [:recycle: & conditionals](https://github.com/mrWallaceMadeira/loopsAndConditionals) & bring questions | ditto
-th 9/17 | [pregame](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUQklYTjdKUVlZNVY5VDFZRjJKS0haWVQ4OCQlQCN0PWcu) & bring questions| review
+m 9/14 |Lab 3 & 4 / Week 3 Challenge Problems| conditional statements
+tu 9/15 | ditto| loops
+w 9/16 | ditto|loops w/ conditionals + review
+th 9/17 | [pregame](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUQklYTjdKUVlZNVY5VDFZRjJKS0haWVQ4OCQlQCN0PWcu) & bring questions | review
 f 9/18 | review | :tada:&nbsp; **knowledge celebration**
 
 ###### Week 4
 :test_tube:&nbsp; SuperLab due by **f 9/25**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/21 | [practice makes ~~perfect~~ marginal improvements!](https://github.com/mrWallaceMadeira/PracticeProblems)| SuperLab
-tu 9/22 | [advanced: functions & methods I](https://github.com/mrWallaceMadeira/functionsAndMethodsI) | SuperLab
+m 9/21 | SuperLab & CP3 |[practice makes ~~perfect~~ marginal improvements!](https://github.com/mrWallaceMadeira/CumulativePracticeProblems)
+tu 9/22 | SuperLa|[advanced: functions & methods I](https://github.com/mrWallaceMadeira/functionsAndMethodsI)
 w 9/23 |[advanced: functions & methods II](https://github.com/mrWallaceMadeira/functionsAndMethodsII)| SuperLab
 th 9/24 |[advanced: arrays & more](https://github.com/mrWallaceMadeira/arraysAndMore)| SuperLab
 f 9/25 |[practice makes ~~perfect~~ marginal improvements!](https://github.com/mrWallaceMadeira/PracticeProblems)| **SuperLab due today**
@@ -85,6 +85,7 @@ f 10/2 | presentation work | :trophy:&nbsp; **project presentations**
  |---|------|-----|
  exit tickets & reflections|1/day = 22 total|completion
  class/online engagement|1/day = 22 total|completion
+ challenge problems|1/day = 22 total|completion
  knowledge celebration|60|~
  labs|10/lab = 50 total|[rubric](https://themadeiraschool-my.sharepoint.com/:w:/r/personal/pwallace_madeira_org/Documents/Intro%20to%20CS/mod1/admin/labRubric.docx?d=wd7d4b47f2a3e4082ba44a6866b77f548&csf=1&web=1&e=pcfa8L)
  final project|40|[rubric](https://themadeiraschool-my.sharepoint.com/:w:/r/personal/pwallace_madeira_org/Documents/Intro%20to%20CS/mod1/admin/labRubric.docx?d=wd7d4b47f2a3e4082ba44a6866b77f548&csf=1&web=1&e=pcfa8L)
