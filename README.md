@@ -40,7 +40,7 @@ f 9/3 | ~ | finish setup, strings & lab 1
 date | homework | classwork
 ---- | ------ | ---------
 m 9/7 | &nbsp;:zzz:&nbsp; | &nbsp;:zzz:&nbsp;
-tu 9/8 | Labs 1 & 2 / Week 2 Challenge Problems | strings, variables and methods
+tu 9/8 | Labs 1 & 2 / week 2 challenge problems | strings, variables and methods
 w 9/9 | ditto | reading input 
 th 9/10 | ditto | numbers & arithmetic
 f 9/11 | ditto |booleans & logical operations 
@@ -49,7 +49,7 @@ f 9/11 | ditto |booleans & logical operations
 :test_tube:&nbsp; Lab 3 due by **th 9/17**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/14 |Lab 3 & Week 3 Challenge Problems| conditional statements
+m 9/14 |Lab 3 & week 3 challenge problems| conditional statements
 tu 9/15 | ditto| loops
 w 9/16 | ditto|loops w/ conditionals + review
 th 9/17 | [pregame](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUQklYTjdKUVlZNVY5VDFZRjJKS0haWVQ4OCQlQCN0PWcu) & bring questions | review
@@ -59,7 +59,7 @@ f 9/18 | review | :tada:&nbsp; **knowledge celebration**
 :test_tube:&nbsp; SuperLab due by **f 9/25**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/21 | SuperLab & Week 4 Challenge Problems |OOP I
+m 9/21 | SuperLab & week 4 challenge problems |OOP I
 tu 9/22 | ditto | OOP II
 w 9/23 | ditto| towards complex data structures
 th 9/24 |ditto| work on SuperLab / question time
