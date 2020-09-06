@@ -86,6 +86,7 @@ f 10/2 | presentation work | :trophy:&nbsp; **project presentations**
   - [x] Challenge problems start on week 2 (tu 9/8)
      - 10 problems / week for 3 weeks
      - 5 are required, 5 are extra credit
+     
  |Item|Points|Type|
  |---|------|-----|
  exit tickets & reflections|1/day = 22 total|completion
