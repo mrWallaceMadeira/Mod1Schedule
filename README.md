@@ -49,7 +49,7 @@ f 9/11 | ditto |booleans & logical operations
 :test_tube:&nbsp; Lab 3 due by **th 9/17**
 date | homework | classwork
 ---- | ------ | ---------
-m 9/14 |Lab 3 & 4 / Week 3 Challenge Problems| conditional statements
+m 9/14 |Lab 3 & Week 3 Challenge Problems| conditional statements
 tu 9/15 | ditto| loops
 w 9/16 | ditto|loops w/ conditionals + review
 th 9/17 | [pregame](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUQklYTjdKUVlZNVY5VDFZRjJKS0haWVQ4OCQlQCN0PWcu) & bring questions | review
