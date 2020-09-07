@@ -40,10 +40,10 @@ f 9/3 | ~ | finish setup, strings & lab 1
 date | homework | classwork
 ---- | ------ | ---------
 m 9/7 | &nbsp;:zzz:&nbsp; | &nbsp;:zzz:&nbsp;
-tu 9/8 | Labs 1 & 2 / week 2 challenge problems | strings, variables and methods
-w 9/9 | ditto | reading input 
-th 9/10 | ditto | numbers & arithmetic
-f 9/11 | ditto |booleans & logical operations 
+tu 9/8 | Labs 1 & 2 / week 2 challenge problems | review & reading input
+w 9/9 | ditto | numbers & arithmetic
+th 9/10 | ditto | numbers & arithmetic w/ logic
+f 9/11 | ditto | booleans & logic
 
 ###### Week 3
 :test_tube:&nbsp; Lab 3 due by **th 9/17**
